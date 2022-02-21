@@ -1,7 +1,3 @@
-# WEB-Technologies-Lab
-## testing 
+# WEB Technologies Lab Work
 
 
-dsfasfdsaf
-sdfsdf
-dsf
